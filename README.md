@@ -22,11 +22,11 @@ Pour declencher la pipeline il suffit d'uploader un fichier dans le bucket `mini
 
 La fonction `function-1` trigerred par l'ajout/supression  d'un fichier dans ce bucket va creer un cluster temporaire :
 
-![Architecture 2](images\cluster_provisioning.png)
+![cluster](images\cluster_provisioning.png)
 
 Ce cluster est chargé d'executer un job pyspark (`main.py`).
 
-![Architecture 2](images\job_starting.png)
+![job](images\job_starting.png)
 
 A noter qu'il s'arretera juste apres l'execution du script .
 
