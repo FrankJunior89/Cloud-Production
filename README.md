@@ -1,5 +1,7 @@
 # Mini Projet
 
+Nom du projet GCP : My Fist Project
+
 Ce projet propose deux architectures système différentes pour répondre à des besoins spécifiques.
 
 ## Architecture 1 
@@ -54,4 +56,7 @@ Les données sont d'abord intégré dans Biquery en entier puis à l'aide de req
 
 
 ### Fonctionnement
-Pour declencher la pipeline il suffit d'uploader un fichier dans le bucket `mini-projet-bucket`
+Pour declencher la pipeline il suffit d'uploader un fichier dans le bucket `bucket-achi-2`
+
+
+
